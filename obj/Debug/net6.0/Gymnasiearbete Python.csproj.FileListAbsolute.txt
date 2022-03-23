@@ -1,0 +1,15 @@
+D:\Downloads\Gymnasiearbete Python\bin\Debug\net6.0\Gymnasiearbete Python.exe
+D:\Downloads\Gymnasiearbete Python\bin\Debug\net6.0\Gymnasiearbete Python.deps.json
+D:\Downloads\Gymnasiearbete Python\bin\Debug\net6.0\Gymnasiearbete Python.runtimeconfig.json
+D:\Downloads\Gymnasiearbete Python\bin\Debug\net6.0\Gymnasiearbete Python.dll
+D:\Downloads\Gymnasiearbete Python\bin\Debug\net6.0\Gymnasiearbete Python.pdb
+D:\Downloads\Gymnasiearbete Python\obj\Debug\net6.0\Gymnasiearbete Python.csproj.AssemblyReference.cache
+D:\Downloads\Gymnasiearbete Python\obj\Debug\net6.0\Gymnasiearbete Python.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Gymnasiearbete Python\obj\Debug\net6.0\Gymnasiearbete Python.AssemblyInfoInputs.cache
+D:\Downloads\Gymnasiearbete Python\obj\Debug\net6.0\Gymnasiearbete Python.AssemblyInfo.cs
+D:\Downloads\Gymnasiearbete Python\obj\Debug\net6.0\Gymnasiearbete Python.csproj.CoreCompileInputs.cache
+D:\Downloads\Gymnasiearbete Python\obj\Debug\net6.0\Gymnasiearbete Python.dll
+D:\Downloads\Gymnasiearbete Python\obj\Debug\net6.0\refint\Gymnasiearbete Python.dll
+D:\Downloads\Gymnasiearbete Python\obj\Debug\net6.0\Gymnasiearbete Python.pdb
+D:\Downloads\Gymnasiearbete Python\obj\Debug\net6.0\Gymnasiearbete Python.genruntimeconfig.cache
+D:\Downloads\Gymnasiearbete Python\obj\Debug\net6.0\ref\Gymnasiearbete Python.dll
